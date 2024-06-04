@@ -51,6 +51,7 @@ Open index.html in Your Web Browser: You can simply drag and drop the index.html
 - Easy to customize and integrate into existing projects
 
 #Contributing
+
 **Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.**
 
 Fork the repository
